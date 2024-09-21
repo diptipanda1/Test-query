@@ -1,5 +1,5 @@
 Hello world
 x=1;
 y=2;
-z=x+y;
+z=2x+3y;
 System.out.println("Value of z is: " + z);
