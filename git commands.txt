@@ -1,0 +1,6 @@
+1. git init
+2. git add .
+3. git commit -m "initial commit"
+4. git remote add origin https://github.com/diptipanda1/Test-query.git
+5. git remote set-url origin https://diptipanda1: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@github.com/diptipanda1/Test-query.git
+6. git push --set-upstream origin master
